@@ -1,0 +1,28 @@
+.pages-home {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.pages-home > .group {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+.pages-home > .group > section {
+  display: flex;
+  flex-direction: column;
+  margin-right: 1rem;
+  width: 12rem;
+}
+
+.pages-home > .group > section > h4 {
+  margin-bottom: 1rem;
+}
+.pages-home > .group > section > a {
+  display: block;
+  margin-bottom: 1rem;
+}
+.pages-home > .group > section > a > button {
+  width: 100%;
+}

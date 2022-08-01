@@ -1,0 +1,12 @@
+.common-layout {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.common-layout > main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 1.5rem 2rem;
+}

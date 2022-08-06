@@ -8,9 +8,9 @@ These are my bug bounty notes that I have gathered from various sources, you can
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Arbitrary%20File%20Upload.md)
-- [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
-- [CRLF Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/CRLF%20Injection.md)
-- [Cross Site Request Forgery (CSRF)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Request%20Forgery.md)
+- [Business Logic Errors](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Business%20Logic%20Errors.md)
+- [CRLF Injection](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/CRLF%20Injection.md)
+- [Cross Site Request Forgery (CSRF)](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Cross%20Site%20Request%20Forgery.md)
 - [Cross Site Scripting (XSS)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Scripting.md)
 - [Denial of Service (DoS)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Denial%20Of%20Service.md)
 - [Exposed Source Code](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Exposed%20Source%20Code.md)

@@ -7,7 +7,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 ![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
 
 ## List Vulnerability
-- [Arbitrary File Upload](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Arbitrary%20File%20Upload.md)
+- [Arbitrary File Upload](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Arbitrary%20File%20Upload.md)
 - [Business Logic Errors](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Business%20Logic%20Errors.md)
 - [CRLF Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/CRLF%20Injection.md)
 - [Cross Site Request Forgery (CSRF)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Request%20Forgery.md)

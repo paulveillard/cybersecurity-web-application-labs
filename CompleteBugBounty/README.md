@@ -11,7 +11,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Business Logic Errors](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Business%20Logic%20Errors.md)
 - [CRLF Injection](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/CRLF%20Injection.md)
 - [Cross Site Request Forgery (CSRF)](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Cross%20Site%20Request%20Forgery.md)
-- [Cross Site Scripting (XSS)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Cross%20Site%20Scripting.md)
+- [Cross Site Scripting (XSS)](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Cross%20Site%20Scripting.md)
 - [Denial of Service (DoS)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Denial%20Of%20Service.md)
 - [Exposed Source Code](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Exposed%20Source%20Code.md)
 - [Host Header Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Host%20Header%20Injection.md)
@@ -23,7 +23,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Open Redirect](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Open%20Redirect.md)
 - [Remote File Inclusion (RFI)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Remote%20File%20Inclusion.md)
 - SQL Injection (SOON)
-- [Web Cache Poisoning](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Web%20Cache%20Poisoning.md)
+- [Web Cache Poisoning](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Web%20Cache%20Poisoning.md)
 
 ## Checklist
 - [Forgot Password Functionality](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Checklist/Forgot%20Password.md)

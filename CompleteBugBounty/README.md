@@ -1,10 +1,7 @@
 # Collection of All Bug Bounty
-These are my bug bounty notes that I have gathered from various sources, you can contribute to this repository too!
+An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Bug Bounty in Cybersecurity.
+> Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-![](https://img.shields.io/github/issues/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/forks/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/stars/daffainfo/AllAboutBugBounty)
-![](https://img.shields.io/github/last-commit/daffainfo/AllAboutBugBounty)
 
 ## List Vulnerability
 - [Arbitrary File Upload](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Arbitrary%20File%20Upload.md)

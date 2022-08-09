@@ -20,7 +20,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Mass Assignment](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Mass%20Assignment.md)
 - [NoSQL Injection](https://github.com/daffainfo/AllAboutBugBounty/blob/master/NoSQL%20Injection.md)
 - [OAuth Misconfiguration](https://github.com/daffainfo/AllAboutBugBounty/blob/master/OAuth%20Misconfiguration.md)
-- [Open Redirect](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Open%20Redirect.md)
+- [Open Redirect](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Open%20Redirect.md)
 - [Remote File Inclusion (RFI)](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Remote%20File%20Inclusion.md)
 - SQL Injection (SOON)
 - [Web Cache Poisoning](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Web%20Cache%20Poisoning.md)

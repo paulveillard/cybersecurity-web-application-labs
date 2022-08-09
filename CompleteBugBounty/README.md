@@ -26,7 +26,7 @@ These are my bug bounty notes that I have gathered from various sources, you can
 - [Web Cache Poisoning](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Web%20Cache%20Poisoning.md)
 
 ## Checklist
-- [Forgot Password Functionality](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Checklist/Forgot%20Password.md)
+- [Forgot Password Functionality](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Checklist/Forgot%20Password.md)
 - Register Functionality SOON!
 
 ## List Bypass

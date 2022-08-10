@@ -36,11 +36,11 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Miscellaneous
 - [Account Takeover](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Misc/Account%20Takeover.md)
-- [Broken Link Hijacking](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Broken%20Link%20Hijacking.md)
-- [Default Credentials](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Default%20Credentials.md)
-- [Email Spoofing](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Email%20Spoofing.md)
-- [JWT Vulnerabilities](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/JWT%20Vulnerabilities.md)
-- [Tabnabbing](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Tabnabbing.md)
+- [Broken Link Hijacking](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Misc/Broken%20Link%20Hijacking.md)
+- [Default Credentials](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Misc/Default%20Credentials.md)
+- [Email Spoofing](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBountyr/Misc/Email%20Spoofing.md)
+- [JWT Vulnerabilities](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Misc/JWT%20Vulnerabilities.md)
+- [Tabnabbing](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Misc/Tabnabbing.md)
 
 ## Technologies
 - [Apache (HTTP Server)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Apache%20HTTP%20Server.md)

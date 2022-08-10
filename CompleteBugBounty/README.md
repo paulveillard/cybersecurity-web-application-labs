@@ -35,7 +35,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Bypass CSRF](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Bypass/Bypass%20CSRF.md)
 
 ## Miscellaneous
-- [Account Takeover](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Account%20Takeover.md)
+- [Account Takeover](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Misc/Account%20Takeover.md)
 - [Broken Link Hijacking](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Broken%20Link%20Hijacking.md)
 - [Default Credentials](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Default%20Credentials.md)
 - [Email Spoofing](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Misc/Email%20Spoofing.md)

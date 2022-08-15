@@ -60,7 +60,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Scope Based Recon](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Scope.md)
 - [Github Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Github%20Dorks.md)
 - [Google Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Google%20Dorks.md)
-- [Shodan Dorks](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Shodan%20Dorks.md)
+- [Shodan Dorks](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Reconnaissance/Shodan%20Dorks.md)
 
 ## To-Do-List
 - [ ] Tidy up the reconnaisance folder

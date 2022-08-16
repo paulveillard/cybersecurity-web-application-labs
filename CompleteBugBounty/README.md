@@ -57,7 +57,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Zend](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Zend.md)
 
 ## Reconnaissance
-- [Scope Based Recon](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Reconnaissance/Scope.md)
+- [Scope Based Recon](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Reconnaissance/Scope.md)
 - [Github Dorks](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Reconnaissance/Github%20Dorks.md)
 - [Google Dorks](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Reconnaissance/Google%20Dorks.md)
 - [Shodan Dorks](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Reconnaissance/Shodan%20Dorks.md)

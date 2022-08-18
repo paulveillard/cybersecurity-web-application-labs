@@ -52,8 +52,8 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Jenkins](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Jenkins.md)
 - [Moodle](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Moodle.md)
 - [Laravel](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Laravel.md)
-- [Nginx](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Nginx.md)
-- [WordPress](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/WordPress.md)
+- [Nginx](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Nginx.md)
+- [WordPress](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/WordPress.md)
 - [Zend](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty//Technologies/Zend.md)
 
 ## Reconnaissance

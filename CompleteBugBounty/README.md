@@ -54,7 +54,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Laravel](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Laravel.md)
 - [Nginx](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Nginx.md)
 - [WordPress](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/WordPress.md)
-- [Zend](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Zend.md)
+- [Zend](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty//Technologies/Zend.md)
 
 ## Reconnaissance
 - [Scope Based Recon](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Reconnaissance/Scope.md)

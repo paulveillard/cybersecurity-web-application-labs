@@ -51,7 +51,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Joomla](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Joomla.md)
 - [Jenkins](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Jenkins.md)
 - [Moodle](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Moodle.md)
-- [Laravel](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologes/Laravel.md)
+- [Laravel](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Laravel.md)
 - [Nginx](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Nginx.md)
 - [WordPress](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/WordPress.md)
 - [Zend](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty//Technologies/Zend.md)

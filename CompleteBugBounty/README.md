@@ -44,8 +44,8 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## Technologies
 - [Apache (HTTP Server)](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Apache%20HTTP%20Server.md)
-- [Confluence](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Confluence.md)
-- [Grafana](https://github.com/daffainfo/AllAboutBugBounty/blob/master/Technologies/Grafana.md)
+- [Confluence](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Confluence.md)
+- [Grafana](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Grafana.md)
 - [HAProxy](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Technologies/HAProxy.md)
 - [Jira](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Technologies/Jira.md)
 - [Joomla](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/TechnologiesJoomla.md)

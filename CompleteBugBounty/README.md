@@ -48,7 +48,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - [Grafana](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Grafana.md)
 - [HAProxy](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Technologies/HAProxy.md)
 - [Jira](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Jira.md)
-- [Joomla](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/TechnologiesJoomla.md)
+- [Joomla](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Joomla.md)
 - [Jenkins](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Jenkins.md)
 - [Moodle](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Moodle.md)
 - [Laravel](https://github.com/paulveillard/cybersecurity-web-application-labs/blob/main/CompleteBugBounty/Technologies/Laravel.md)
